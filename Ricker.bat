@@ -1,0 +1,1 @@
+powershell -command "& { ".\logo.mp4" "fullscreen"}"
